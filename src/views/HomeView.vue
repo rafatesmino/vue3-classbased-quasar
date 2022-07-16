@@ -1,5 +1,7 @@
 <template>
   <div class="home">
+    <q-btn>Amir</q-btn>
+    <q-badge>ali</q-badge>
     <img alt="Vue logo" src="../assets/logo.png">
     <HelloWorld msg="Welcome to Your Vue.js + TypeScript App"/>
   </div>
