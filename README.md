@@ -1,4 +1,4 @@
-# aa
+# vue3-classbased-quasar
 
 ## Project setup
 ```
